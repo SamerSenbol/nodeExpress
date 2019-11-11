@@ -1,3 +1,5 @@
+app.set('view engine', 'ejs');
+
 const express = require('express')
 
 const app = express()
